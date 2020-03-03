@@ -39,8 +39,8 @@
                         <div class="row">
 
                             <div class="col-lg-12">
-                                <h1><a href="${pageContext.request.contextPath}/home">КиноМонстр</a></h1>
-                                <p>Кино - наша страсть!</p>
+                                <h1><a href="${pageContext.request.contextPath}/home">Cinema city</a></h1>
+                                <p>Кино - наше всё!</p>
                             </div>
 
                         </div>
